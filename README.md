@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abolfazl-01
-- 👀 I’m interested in Web programmin
+- 👀 I’m interested in Web programming
 - 🌱 I’m currently learning Python language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
